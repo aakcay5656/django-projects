@@ -6,7 +6,7 @@ This project is a simple **Netflix clone** built with Django. My goal was to lea
 
 - 🎥 Movie listing and adding (via Django Admin Panel)
 - 🔐 User registration and login system (Authentication)
-- 🧱 Follows Django MVC architecture
+- 🧱 Follows Django MVT architecture
 - 🗃️ PostgreSQL database integration
 - ⚙️ Basic responsive UI
 
@@ -15,7 +15,7 @@ This project is a simple **Netflix clone** built with Django. My goal was to lea
 - **Python**
 - **Django**
 - **PostgreSQL**
-- **HTML / CSS (basic)**
+- **HTML / CSS / javascript**
 
 ## 🚀 What I Learned
 
@@ -40,7 +40,7 @@ Bu proje, Django kullanarak geliştirdiğim basit bir **Netflix klonu**dur. Amac
 
 - 🎥 Film listeleme ve ekleme (Django Admin Panel üzerinden)
 - 🔐 Kullanıcı kayıt ve giriş sistemi (Authentication)
-- 🧱 Django MVC mimarisine uygun yapı
+- 🧱 Django MVT mimarisine uygun yapı
 - 🗃️ PostgreSQL veritabanı kullanımı
 - ⚙️ Responsive temel arayüz
 
@@ -49,7 +49,7 @@ Bu proje, Django kullanarak geliştirdiğim basit bir **Netflix klonu**dur. Amac
 - **Python**
 - **Django**
 - **PostgreSQL**
-- **HTML / CSS (basic)**
+- **HTML / CSS / javascript**
 
 ## 🚀 Öğrendiklerim
 
