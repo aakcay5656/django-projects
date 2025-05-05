@@ -1,23 +1,23 @@
-# 🎬 Netflix Clone
+# Netflix Clone
 
 This project is a simple **Netflix clone** built with Django. My goal was to learn the core components of Django, including user authentication, database operations, and admin panel management through hands-on practice.
 
-## 📌 Project Features
+## Project Features
 
-- 🎥 Movie listing and adding (via Django Admin Panel)
-- 🔐 User registration and login system (Authentication)
-- 🧱 Follows Django MVT architecture
-- 🗃️ PostgreSQL database integration
-- ⚙️ Basic responsive UI
+- Movie listing and adding (via Django Admin Panel)
+- User registration and login system (Authentication)
+- Follows Django MVT architecture
+- PostgreSQL database integration
+- Basic responsive UI
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **Django**
 - **PostgreSQL**
 - **HTML / CSS / javascript**
 
-## 🚀 What I Learned
+##  What I Learned
 
 During the development of this project, I learned:
 
@@ -32,26 +32,26 @@ During the development of this project, I learned:
 
 ---
 
-# 🎬 Netflix klonu
+#  Netflix klonu
 
 Bu proje, Django kullanarak geliştirdiğim basit bir **Netflix klonu**dur. Amacım, Django'nun temel yapı taşlarını öğrenmek, kullanıcı kimlik doğrulama (authentication), veri tabanı işlemleri ve admin paneli yönetimini uygulamalı olarak kavramaktı.
 
-## 📌 Proje Özellikleri
+##  Proje Özellikleri
 
-- 🎥 Film listeleme ve ekleme (Django Admin Panel üzerinden)
-- 🔐 Kullanıcı kayıt ve giriş sistemi (Authentication)
-- 🧱 Django MVT mimarisine uygun yapı
-- 🗃️ PostgreSQL veritabanı kullanımı
-- ⚙️ Responsive temel arayüz
+-  Film listeleme ve ekleme (Django Admin Panel üzerinden)
+-  Kullanıcı kayıt ve giriş sistemi (Authentication)
+-  Django MVT mimarisine uygun yapı
+-  PostgreSQL veritabanı kullanımı
+-  Responsive temel arayüz
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - **Python**
 - **Django**
 - **PostgreSQL**
 - **HTML / CSS / javascript**
 
-## 🚀 Öğrendiklerim
+##  Öğrendiklerim
 
 Bu projeyi geliştirirken:
 
