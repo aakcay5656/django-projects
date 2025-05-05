@@ -29,8 +29,8 @@ During the development of this project, I learned:
 
 
 
-##
-## Türkçe
+
+---
 
 # 🎬 Netflix klonu
 
